@@ -1,37 +1,27 @@
 package oop_00000136220_altha.week02
 
-import java.util.Scanner
-
-fun main() {
-    val scanner = Scanner(System.`in`)
-
-    println("--- APLIKASI PMB UMN ---")
-
-    print("Masukkan Nama: ")
-    val name = scanner.nextLine()
-
-    print("Masukkan NIM (Wajib 5 karakter): ")
-    val nim = scanner.nextLine()
-
-    if (nim.length != 5) {
-        println("ERROR: Pendaftaran dibatalkan. NIM harus 5 karakter!")
-    } else {
-        print("Masukkan Jurusan: ")
-        val major = scanner.nextLine()
-
-        // Perbaikan: Memanggil class Student yang sudah didefinisikan di bawah
-        val s1 = Student(name, nim, major)
-        println("Status: Pendaftaran Selesai.")
-    }
-}
-
-// WAJIB ADA: Definisi class Student di luar fungsi main
-class Student(
+class student (
     val name: String,
     val nim: String,
-    val major: String
-) {
+    var major: String,
+    var gpa: Double =0.0,
+
+
+    ){
+    class Student( val name : String,val nim : String, major : String, var studentId: String)
     init {
-        println("LOG: Objek student $name berhasil dialokasikan di memory.")
+
+        if (nim.length != 5) {
+        } else {
+            println("WARNING: Objek terciptakan dengan NIM ($nim) yang tidak valid!")
+            println("Data mahasiswa $name mungkin akan bermasalah di sistem.")
+
+            println("LOG: Objek Student $name berhasil dialokasikan di memory.")
+        }
+
+
+
+
+
     }
 }
