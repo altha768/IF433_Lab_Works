@@ -1,5 +1,32 @@
 package oop_00000136220_altha.week02
 
+class Loan(
+    val bookTitle: String,
+    val borrower: String,
+    val loanDuration: Int = 1
+) {
+
+    fun calculateFine(): Int {
+        return if (loanDuration > 3) {
+            (loanDuration - 3) * 2000
+        } else {
+            0  // Tidak ada denda jika <= 3 har
+        }
+    }
+
+    // Method tambahan untuk menampilkan informasi peminjaman
+    fun displayInfo() {
+        println("=================================")
+        println("Informasi Peminjaman Buku")
+        println("=================================")
+        println("Judul Buku    : $bookTitle")
+        println("Peminjam      : $borrower")
+        println("Durasi Pinjam : $loanDuration hari")
+        println("Denda         : Rp ${calculateFine()}")
+        println("=================================\n")
+    }
+}
+
 // Fungsi main untuk testing program
 fun main() {
     println("===== PROGRAM PENCATAT PEMINJAMAN BUKU =====\n")
@@ -27,3 +54,4 @@ fun main() {
     println("${loan3.borrower} - ${loan3.bookTitle}: Rp ${loan3.calculateFine()}")
     println("${loan4.borrower} - ${loan4.bookTitle}: Rp ${loan4.calculateFine()}")
 }
+
