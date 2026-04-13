@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f28e7176-c95a-43c0-a186-54487c40504d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week06/Button.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/Capabilities.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/Clickable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/GadgetInterfaces.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/PaymentImplementations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/PaymentMethod.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/Smartwatch.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/Watch.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week06/smartphone.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/LootDropped.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/MonsterEncounter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/ApiParser.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/ECommerceMain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/EcommerceModels.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/JavaPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/LegacyJavaAPI.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/NotificationService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/OrderModels.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/UserTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/userProfile.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="f28e7176-c95a-43c0-a186-54487c40504d" name="Changes" comment="week08" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +49,9 @@
       <recent name="week7" />
       <recent name="week8" />
     </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="week7" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -89,7 +68,29 @@
       <option name="presentableId" value="Default" />
       <updated>1776060313871</updated>
     </task>
+    <task id="LOCAL-00001" summary="week08">
+      <option name="closed" value="true" />
+      <created>1776071507968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776071507968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="week08">
+      <option name="closed" value="true" />
+      <created>1776071520845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776071520845</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="week05" />
+    <MESSAGE value="week08" />
+    <option name="LAST_COMMIT_MESSAGE" value="week08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
