@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f28e7176-c95a-43c0-a186-54487c40504d" name="Changes" comment="week08" />
+    <list default="true" id="f28e7176-c95a-43c0-a186-54487c40504d" name="Changes" comment="week08">
+      <change afterPath="$PROJECT_DIR$/src/week8/LegacyJavaAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/ApiParser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/ApiParser.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/EcommerceModels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/EcommerceModels.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/JavaPaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/JavaPaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/LegacyJavaAPI.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week8/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -52,6 +60,20 @@
     <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
       <recent name="week7" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.MainKt" />
+      <module name="IF433_Lab_Works" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>

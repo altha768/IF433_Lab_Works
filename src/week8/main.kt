@@ -72,20 +72,20 @@ fun main() {
                         "CRITICAL EXCEPTION: Token otentikasi tidak ditemukan dari server!"
 
                     }
-                } catch (e: NullPointerException) {
+                } catch (e: IllegalArgumentException) {
                     println(e.message)
-
+                }
                     println("\n=== TEST JAVA INTEROP ===")
                     val javaResponse =  LegacyJavaAPI.fetchServerStatus()
 
-                    val statusLength = javaResponse.
+                    val statusLength = javaResponse!!.length
                     println("Status dari java: $javaResponse (Length: $statusLength)")
 
 
 
                 }
 
-            }        }
+            }
     }
 
 }

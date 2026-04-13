@@ -1,6 +1,5 @@
 package week8
 
-class EcommerceModels {
 
     sealed class Product
 
@@ -16,6 +15,3 @@ class EcommerceModels {
         val name: String,
         val size: String,
     ) : Product()
-
-
-}
