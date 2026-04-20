@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f28e7176-c95a-43c0-a186-54487c40504d" name="Changes" comment="week08">
-      <change afterPath="$PROJECT_DIR$/src/week8/LegacyJavaAPI.java" afterDir="false" />
+    <list default="true" id="f28e7176-c95a-43c0-a186-54487c40504d" name="Changes" comment="week09">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week8/ApiParser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/ApiParser.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week8/EcommerceModels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/EcommerceModels.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week8/JavaPaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/JavaPaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week8/LegacyJavaAPI.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week8/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugasmandiri_oop_week09/TradingDashboard.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugasmandiri_oop_week09/TradingDashboard.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,17 +17,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3CI5azQLszVAVJIUlBn8ZFjnumT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -106,13 +101,38 @@
       <option name="project" value="LOCAL" />
       <updated>1776071520845</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="week09">
+      <option name="closed" value="true" />
+      <created>1776673597439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776673597439</updated>
+    </task>
+    <task id="LOCAL-00004" summary="week09">
+      <option name="closed" value="true" />
+      <created>1776673678315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776673678315</updated>
+    </task>
+    <task id="LOCAL-00005" summary="week09">
+      <option name="closed" value="true" />
+      <created>1776674235045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776674235045</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week05" />
     <MESSAGE value="week08" />
-    <option name="LAST_COMMIT_MESSAGE" value="week08" />
+    <MESSAGE value="week09" />
+    <option name="LAST_COMMIT_MESSAGE" value="week09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
