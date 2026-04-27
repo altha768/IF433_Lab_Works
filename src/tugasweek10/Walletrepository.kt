@@ -1,13 +1,16 @@
 package tugasweek10
 
-class WalletRepository<T : `Wallet model`.Nameable> {
-
-    private val items: MutableMap<T, Int> = mutableMapOf()
+class WalletRepository<T> {
+    private val items = mutableListOf<T>()
 
     fun add(item: T) {
-        item.add(item)
-
+        items.add(item)
     }
 
+    fun getAll(): List<T> = items
 
+
+    fun <T> findByName(items: List<T>, query: String): T? where T : NamedEntity {
+        return items.find { it.name.equals(query, ignoreCase = true) }
+    }
 }

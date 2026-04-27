@@ -1,4 +1,6 @@
 package week10
 
-class multibox {
+class Pairbox<K, V>(val key: K, value: V) {
+
+
 }
