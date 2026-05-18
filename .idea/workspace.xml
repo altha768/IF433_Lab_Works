@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f28e7176-c95a-43c0-a186-54487c40504d" name="Changes" comment="week09">
+      <change afterPath="$PROJECT_DIR$/src/tugasweek13/TradeRecord.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tugasweek13/TradeRepository.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugasweek10/CryptoDashboard.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugasweek10/CryptoDashboard.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugasweek10/NetworkResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugasweek10/NetworkResponse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugasweek10/Wallet model.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugasweek10/Wallet model.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugasweek10/Walletrepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugasweek10/Walletrepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week10/GenericBox.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week10/GenericBox.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week10/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week10/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week10/multibox.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/week10/multibox.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugasweeek11/SmartHomeDashboard.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugasweeek11/SmartHomeDashboard.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugasweeek11/SmartHomeModels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugasweeek11/SmartHomeModels.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugasweeek11/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugasweeek11/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
